@@ -1,2 +1,2 @@
-# python_test01
-사용 테스트 그 첫번째.
+#tryhelloworld 강좌
+##파이썬 입문 
